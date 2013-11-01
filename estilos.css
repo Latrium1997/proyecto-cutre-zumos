@@ -1,0 +1,36 @@
+header {
+	background-color:black;	
+	overflow: hidden;
+}
+
+span {
+	color: white;
+	position: relative;
+	top: 105px;
+	left: 60px;
+	font-size: 80px;
+}
+
+.imagen {
+	float: right;
+}
+.body {
+	background-color: gold;
+}
+
+textarea {
+	width: 350px;
+}
+
+form {
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 50px;
+	width: 23.43%;
+}
+
+.botones {
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}
